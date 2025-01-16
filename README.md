@@ -9,6 +9,7 @@ This project demonstrates the implementation of object tracking using OpenCV, le
 - Visualized tracking results with bounding boxes and FPS metrics overlaid on the video frames.
 - Exported processed videos for both KCF and CSRT tracking methods.
 
+
 ### Results
 
 The project successfully tracks an object throughout the video, depending on the selected algorithm.
